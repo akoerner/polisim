@@ -1,0 +1,85 @@
+{
+  "axes": [
+    {
+      "id": "economic",
+      "name": "Economic Axis",
+      "left_description": "Socialism, Economic Equality",
+      "right_description": "Capitalism, Economic Freedom",
+      "description": "The Economic Axis represents the spectrum between government intervention in the economy and market-driven capitalism. On the left, socialism emphasizes economic equality and collective ownership, while on the right, capitalism values economic freedom and private enterprise."
+    },
+    {
+      "id": "social",
+      "name": "Social Axis",
+      "left_description": "Libertarian, Personal Freedom, Social Progressivism",
+      "right_description": "Authoritarian, State Control, Social Conservatism",
+      "description": "The Social Axis measures attitudes towards personal freedoms and social policies. Libertarians advocate for minimal state intervention in personal lives, whereas authoritarians support state control over social issues, often aligning with conservative values."
+    },
+    {
+      "id": "cultural",
+      "name": "Cultural Axis",
+      "left_description": "Progressive, Cultural Change, Liberal Values",
+      "right_description": "Traditionalist, Cultural Preservation, Conservative Values",
+      "description": "The Cultural Axis reflects the tension between progressive change and traditional values. Progressives push for cultural and social reforms, while traditionalists seek to preserve established customs and norms."
+    },
+    {
+      "id": "state_power",
+      "name": "State Power Axis",
+      "left_description": "Anarchism, No State, Voluntary Associations",
+      "right_description": "Statism, Strong Centralized Government",
+      "description": "The State Power Axis examines the extent of governmental authority. Anarchism, on the left, calls for the abolition of the state in favor of voluntary associations, while statism on the right advocates for a strong, centralized government."
+    },
+    {
+      "id": "globalism_nationalism",
+      "name": "Globalism vs. Nationalism Axis",
+      "left_description": "Globalism, International Cooperation, Open Borders",
+      "right_description": "Nationalism, National Sovereignty, Closed Borders",
+      "description": "The Globalism vs. Nationalism Axis highlights the debate between international cooperation and national sovereignty. Globalists support open borders and global governance, while nationalists prioritize national interests and sovereignty."
+    },
+    {
+      "id": "religious_secular",
+      "name": "Religious vs. Secular Axis",
+      "left_description": "Religious, Theocratic Influence, Moral Governance",
+      "right_description": "Secular, Separation of Church and State, Religious Neutrality",
+      "description": "The Religious vs. Secular Axis explores the role of religion in governance. The religious side supports theocratic influence and governance based on moral or religious principles, while the secular side advocates for the separation of religion and state."
+    },
+    {
+      "id": "environmental",
+      "name": "Environmental Axis",
+      "left_description": "Eco-Centrism, Environmental Protection, Green Policies",
+      "right_description": "Anthropocentrism, Human-Centric Development, Industrial Growth",
+      "description": "The Environmental Axis captures the balance between environmental protection and economic development. Eco-centrism emphasizes the importance of preserving nature, while anthropocentrism focuses on human development, often prioritizing industrial growth."
+    },
+    {
+      "id": "civil_liberties_security",
+      "name": "Civil Liberties vs. Security Axis",
+      "left_description": "Civil Liberties, Protection of Individual Rights, Limited Surveillance",
+      "right_description": "Security, Prioritization of National Security, Expanded Surveillance",
+      "description": "The Civil Liberties vs. Security Axis deals with the trade-off between individual rights and collective security. Those on the civil liberties side prioritize personal freedoms and privacy, while the security side emphasizes the need for surveillance and measures to protect the state."
+    },
+    {
+      "id": "decentralization_centralization",
+      "name": "Decentralization vs. Centralization Axis",
+      "left_description": "Decentralization, Local Autonomy, Federalism",
+      "right_description": "Centralization, Strong Central Authority, Unitarianism",
+      "description": "The Decentralization vs. Centralization Axis contrasts local autonomy with centralized governance. Decentralists favor distributing power to local authorities, while centralists support a strong, unified central government."
+    },
+    {
+      "id": "direct_rep_democracy",
+      "name": "Direct Democracy vs. Representative Democracy Axis",
+      "left_description": "Direct Democracy, Citizen Participation, Referendums",
+      "right_description": "Representative Democracy, Elected Officials, Indirect Governance",
+      "description": "The Direct Democracy vs. Representative Democracy Axis addresses different forms of democratic governance. Direct democracy involves citizens directly in decision-making, while representative democracy relies on elected officials to govern on behalf of the people."
+    },
+    {
+      "id": "industrial_agrarian",
+      "name": "Industrial vs. Agrarian Axis",
+      "left_description": "Industrial, Urbanization, Technological Progress",
+      "right_description": "Agrarian, Rural Values, Agricultural Focus",
+      "description": "The Industrial vs. Agrarian Axis examines the preference for industrial progress versus agrarian lifestyles. Industrialists prioritize urbanization and technological advances, while agrarians value rural traditions and agricultural life."
+    },
+    {
+      "id": "meritocracy_egalitarianism",
+      "name": "Meritocracy vs. Egalitarianism Axis",
+      "left_description": "Meritocracy, Rewarding Talent and Achievement",
+      "right_description": "Egalitarianism, Equal Opportunities, Redistribution",
+
